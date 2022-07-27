@@ -12,7 +12,7 @@
  <h2></h2>
 
 ### :man_technologist: About Me :
- -I am a Student Developer <img src="https://pics.livejournal.com/rampanthers/pic/002f8t9h" width="30"> from Brasil.
+I am a Programmer Student <img src="https://pics.livejournal.com/rampanthers/pic/002f8t9h" width="30"> from Brasil.
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
