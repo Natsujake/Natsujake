@@ -31,7 +31,7 @@ I am a Programming Student from Brazil. <img src="https://pics.livejournal.com/r
 <h2></h2>
 
 ### :fire: My Stats: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natzujj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natzujj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natzujj&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natzujj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
